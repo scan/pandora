@@ -1,0 +1,15 @@
+{
+  "name": "pandora",
+  "version": "0.0.1",
+  "description": "Feature flipping API",
+  "main": "index.js",
+  "repository": "git@github.com:scan/pandora.git",
+  "author": "Tom Streller <tom.streller@functional-games.de>",
+  "license": "AGPL3",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  }
+}
